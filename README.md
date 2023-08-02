@@ -19,8 +19,8 @@
 5. Selecione a moeda de destino no segundo seletor.
 6. O resultado da conversão será exibido automaticamente no campo de saída.
 
-# Contribuição
-Se você quiser contribuir para o projeto ou tiver sugestões de melhorias, sinta-se à vontade para criar uma "issue" ou enviar um "pull request" com as suas alterações.
+* Contribuição
+    Se você quiser contribuir para o projeto ou tiver sugestões de melhorias, sinta-se à vontade para criar uma "issue" ou enviar um "pull request" com as suas alterações.
 
-# Agradecimentos
-Agradecemos à equipe da API Frankfurter por fornecer os dados de taxas de câmbio atualizados, tornando possível a criação deste conversor de moedas. 
+* Agradecimentos
+    Agradecemos à equipe da API Frankfurter por fornecer os dados de taxas de câmbio atualizados, tornando possível a criação deste conversor de moedas. 
