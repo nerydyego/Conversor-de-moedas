@@ -1,5 +1,5 @@
 # Projeto Conversor de Moedas
-* Neste projeto, apresentamos um conversor de moedas que permite aos usuários converter valores de uma moeda para outra com base nas taxas de câmbio atualizadas. O projeto é desenvolvido utilizando tecnologias web como HTML, CSS e Bootstrap, além de utilizar uma API externa para obter as informações das taxas de câmbio.
+* Neste projeto, apresento um conversor de moedas que permite aos usuários converter valores de uma moeda para outra com base nas taxas de câmbio atualizadas. O projeto é desenvolvido utilizando tecnologias web como HTML, CSS e Bootstrap, além de utilizar uma API externa para obter as informações das taxas de câmbio.
 
 ## Funcionalidades
 * Conversão de moedas em tempo real: O conversor permite que os usuários insiram um valor em uma moeda e escolham uma moeda de destino para obter o valor equivalente após a conversão, com base nas taxas de câmbio atuais.
