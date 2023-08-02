@@ -15,11 +15,13 @@
 2. Abra o arquivo "index.html" em seu navegador web.
 3. Insira o valor em moeda que você deseja converter no campo apropriado.
 4. Selecione a moeda de origem no primeiro seletor.
-5. Selecione a moeda de destino no segundo seletor.
-6. O resultado da conversão será exibido automaticamente no campo de saída.
+5. Informe o valor no campo abaixo.
+6. Selecione a moeda de destino no segundo seletor.
+7. Click no botão converter.
+8. O resultado da conversão será exibido automaticamente no campo abaixo da moeda convertida.
 
 ## Contribuição
-    Se você quiser contribuir para o projeto ou tiver sugestões de melhorias, sinta-se à vontade para criar uma "issue" ou enviar um "pull request" com as suas alterações.
+- Se você quiser contribuir para o projeto ou tiver sugestões de melhorias, sinta-se à vontade para criar uma "issue" ou enviar um "pull request" com as suas alterações.
 
 ## Agradecimentos
-    Agradecemos à equipe da API Frankfurter por fornecer os dados de taxas de câmbio atualizados, tornando possível a criação deste conversor de moedas. 
+- Agradecemos à equipe da API Frankfurter por fornecer os dados de taxas de câmbio atualizados, tornando possível a criação deste conversor de moedas. 
